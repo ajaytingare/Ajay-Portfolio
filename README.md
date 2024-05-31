@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Django ,Flask**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Ajay99yo](https://github.com/Ajay99yo)
+- 👨‍💻 All of my projects are available at [https://github.com/Ajay99yo](https://github.com/ajaytingare)
 
 - 📫 How to reach me **ajaytingare99@gmail.com**
 
