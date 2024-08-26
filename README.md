@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ajay Tingare</h1>
 <h3 align="center">Aspiring Artificial Intelligence and Machine Learning Specialist with a Master's degree in progress and a Bachelor's degree achieved with a remarkable CGPA of 9.52. Passionate about leveraging AI and ML technologies to solve real-world problems. Equipped with a strong foundation in data analysis, algorithm development, and predictive modeling. Eager to contribute innovative solutions in a dynamic and challenging environment.</h3>
 
-- 🔭 I’m currently working on **Computer Vision Project**
+- 🔭 I’m currently working on **Deep Learning based Project**
 
-- 🌱 I’m currently learning **Django ,Flask**
+- 🌱 I’m currently learning **DSA**
 
 - 👨‍💻 All of my projects are available at (https://github.com/ajaytingare)
 
